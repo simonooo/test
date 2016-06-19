@@ -5,6 +5,10 @@ Creation-Date: 2016-06-19T14:10:34+02:00
 ====== Git ======
 Created Sunday 19 June 2016
 
+**GitHub**
+user: simonooo
+pass: Juuuuuuhuuuuuu5
+email: s123880@student.dtu.dk
 
 **Intro**
 Versionsstyringsværktøj. Bruges til at holde styr på ændringer i filer. Det er ikke kun forbeholdt kildekode. Et Version Control System (VCS) tillader; gå tilbage til tidligere filer, eller gå tilbage til et tidligere projekt. 
