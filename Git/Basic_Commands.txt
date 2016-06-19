@@ -6,5 +6,9 @@ Creation-Date: 2016-06-19T18:27:08+02:00
 Created Sunday 19 June 2016
 
 Du kan starte et Git projekt på to måder:
-* git init - overfører det 
+* git init - opretter et .git directory i det pågældende directory. git add (-all -rekursivt) til at tilføje de enkelte filer til staging area. git commit -m 'navn' for commit.
+* git close - for at hente et .git directory fra en server. Her hentes hele historikken. Her oprettes et directory med projektets navn og inde i det directory oprettes et .git directory, hvor det bliver gemt. Herudover gemmes filerne også. Flere forskellige transfer protocols kan benyttes.
+
+En fil kan være enten tracked eller untracked (har du brugt git --add?). Efter clone kommandoen bliver alle filer automatisk added og er derfor tracked.
+
 
