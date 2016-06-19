@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-06-19T18:27:08+02:00
+
+====== Basic Commands ======
+Created Sunday 19 June 2016
+
+Du kan starte et Git projekt på to måder:
+* git init - overfører det 
+
